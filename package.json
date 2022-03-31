@@ -1,0 +1,14 @@
+{
+  "name": "numeric_string_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "num-words": "^1.2.2",
+    "rubles": "^0.2.0"
+  }
+}
